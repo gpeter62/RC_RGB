@@ -1,6 +1,8 @@
 # RC_RGB
 RC controlled Neopixel RGB lightning
+
 Hardware: Arduino Nano or Pro Mini
+
 Software: Arduino IDE
 
 Used external libraries: 
