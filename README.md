@@ -1,7 +1,9 @@
 # RC_RGB
 RC controlled Neopixel RGB lightning
 Hardware: Arduino Nano or Pro Mini
-Used libraries: 
+Software: Arduino IDE
+
+Used external libraries: 
 - https://github.com/FastLED/FastLED
 - https://github.com/xkam1x/Arduino-PWM-Reader
 
